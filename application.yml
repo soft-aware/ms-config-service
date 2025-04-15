@@ -1,7 +1,7 @@
 Spring:
   application:
-      # name: Config-Default
-     name: Config-Sec 
+       name: Config-Default
+      
 # eureka:
 #  client:
 #    register-with-eureka: true
