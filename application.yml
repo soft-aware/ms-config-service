@@ -1,6 +1,11 @@
 Spring:
   application:
        name: Config-Default
+       
+  datasource:
+    url: jdbc:postgresql://localhost:5432/microservices
+    username: postgres
+    password: sa123     
       
 # eureka:
 #  client:
